@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Link
 
-- Solution URL: [solution](https://github.com/MaracaraCarlos/Advice-generator-app)
+- Solution URL: [solution](https://github.com/MaracaraCarlos/Clipboard-Landing-Page)
 - Live Site URL: [Netlify](https://advice-generator-cems.netlify.app/)
 
 ## My process
