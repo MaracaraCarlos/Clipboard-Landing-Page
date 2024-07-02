@@ -27,7 +27,7 @@ Users should be able to:
 ### Link
 
 - Solution URL: [solution](https://github.com/MaracaraCarlos/Clipboard-Landing-Page)
-- Live Site URL: [Netlify](https://advice-generator-cems.netlify.app/)
+- Live Site URL: [Page](https://maracaracarlos.github.io/Clipboard-Landing-Page/)
 
 ## My process
 
